@@ -104,11 +104,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vonsas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0e1117&title_color=8ea2ff&icon_color=4fc6d4&text_color=c3c9d4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vonsas&layout=compact&hide_border=true&bg_color=0e1117&title_color=8ea2ff&text_color=c3c9d4"/>
-
-<img src="https://streak-stats.demolab.com?user=Vonsas&hide_border=true&background=0e1117&ring=3150c9&fire=4fc6d4&currStreakLabel=8ea2ff&sideLabels=c3c9d4&currStreakNum=e8ebf1&sideNums=e8ebf1&dates=939cad" width="60%"/>
-
 <!-- 아래 팩맨 그래프는 .github/workflows/pacman.yml 을 함께 올리면 하루 한 번 자동 생성됩니다 -->
 <img src="https://raw.githubusercontent.com/Vonsas/Vonsas/output/pacman-contribution-graph-dark.svg" width="100%"/>
 
