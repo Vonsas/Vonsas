@@ -117,7 +117,7 @@
 
 ## 📫 Contact
 
-<a href="https://claude.ai/artifact/6WbZvrsaTEGD5KTpmW9BpE"><img src="https://img.shields.io/badge/Portfolio-3150c9?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
+<a href="https://vonsas.github.io"><img src="https://img.shields.io/badge/Portfolio-3150c9?style=for-the-badge&logo=readdotcv&logoColor=white"/></a>
 <a href="mailto:sung7281@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="https://www.urnlock.com"><img src="https://img.shields.io/badge/urnlock.com-0b7d8c?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
